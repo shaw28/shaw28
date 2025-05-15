@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] — Open to Work!
+# 👋 Hi, I'm Kishore Shaw — Open to Work!
 
 I'm a passionate **Software Engineer** with experience in **Frontend Development**, **UI/UX Design**, and **Cloud Fundamentals**. I bring a blend of creativity and engineering rigor, having worked on real-world projects using **React**, **Angular**, **JavaScript**, and **Python**.
 
