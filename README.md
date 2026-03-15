@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kishore Shaw — Open to Work!
 
-I'm a passionate **Software Engineer** with experience in **Frontend Development**, **UI/UX Design**, and **Cloud Fundamentals**. I bring a blend of creativity and engineering rigor, having worked on real-world projects using **React**, **Angular**, **JavaScript**, and **Python**.
+I'm a passionate **Software Engineer** with experience in **Fullstack Development**, **UI/UX Design**, and **Cloud Fundamentals**. I bring a blend of creativity and engineering rigor, having worked on real-world projects using *Java*React**, **Angular**, **JavaScript**, and **Python**.
 
 🎯 I'm actively seeking new opportunities in **Frontend**, **Full-Stack**, or **Cloud-Enabled Engineering** roles.
 
@@ -17,7 +17,7 @@ I'm a passionate **Software Engineer** with experience in **Frontend Development
 ---
 
 ## 📌 Featured Projects
-> 🔗 *Explore more of my work in my portfolio [here](https://shaw28.github.io/My_portfolio/#/).*
+> 🔗 *Explore more of my work in my portfolio [here](https://shaw28.github.io/My_port)
 ---
 
 ## 🧰 Tech Stack & Tools
